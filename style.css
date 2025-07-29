@@ -4,6 +4,23 @@ div {
     border: 3px solid black;
 }
 
+/* START OF EDITED CODE */
+img {
+    width: 100px;
+}
+
+#nothing-div {
+    display: none;
+}
+
+#counter-div {
+    width: auto;
+    min-height: auto;
+    border: none;
+}
+/* END OF EDITED CODE */
+
 #img-div {
     display: none;
 }
+
